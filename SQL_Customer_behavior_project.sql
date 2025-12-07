@@ -105,9 +105,8 @@ select * from Customers;
 		Group By age_group
 		Order By total_revenue DESC;
 
---11. 
-
 
 
 
 	
+
