@@ -72,7 +72,6 @@ GitHub → Version control & project hosting
 │   └── Customer_Behavior_Dashboard.pbix
 ├── Reports/
 │   ├── Final_Report.pdf
-│   └── Presentation.pptx
 └── README.md
 
 📈 Key Outcomes
