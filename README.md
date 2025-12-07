@@ -79,4 +79,4 @@ GitHub → Version control & project hosting
 End-to-end understanding of customer behavior
 Ability to convert raw data into actionable insights
 
-<img width="1386" height="713" alt="Dashboard 2025-12-07 111709" src="https://github.com/user-attachments/assets/e7fc9440-6702-4d93-a123-8376f1ab990e" />
+<img width="1230" height="697" alt="SS_Dashboard" src="https://github.com/user-attachments/assets/0b32b83a-2bd6-482b-9d83-81b138febb08" />
